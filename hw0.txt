@@ -1,3 +1,5 @@
-# Description of your program (part 7)
+# This program runs the hello method twice and calculates a volume based on values given for length, width, and height. This program also states my name.
 
-# Reflection on writing your program (part 8)
+# This exercise took a lot of effort on my behalf to familiarize myself with the new language and software. It was definitely fun to learn how to manipulate the program and get correct results. It is satisfying to describe the program in english to fully understand what I manipulated/created.
+
+# In this class I hope to gain more of an understanding of what programming means to me and also ways I can potentially use its capabilities in the future. I'm excited to create projects I can be proud of and gain a more technical understanding of design and engineering. 
